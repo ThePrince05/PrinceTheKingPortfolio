@@ -1,1 +1,7 @@
 project.mobirise
+.history/
+*.bak
+*.tmp
+*.DS_Store
+Thumbs.db
+
